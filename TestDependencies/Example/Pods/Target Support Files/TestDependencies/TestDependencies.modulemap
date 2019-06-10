@@ -1,0 +1,6 @@
+framework module TestDependencies {
+  umbrella header "TestDependencies-umbrella.h"
+
+  export *
+  module * { export * }
+}

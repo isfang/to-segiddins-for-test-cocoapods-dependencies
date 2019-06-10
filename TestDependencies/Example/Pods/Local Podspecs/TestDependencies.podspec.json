@@ -1,0 +1,22 @@
+{
+  "name": "TestDependencies",
+  "version": "0.1.0",
+  "summary": "A short description of TestDependencies.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/isfang/TestDependencies",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "isfang": "fangdong@tuyasmart.com"
+  },
+  "source": {
+    "git": "https://github.com/isfang/TestDependencies.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestDependencies/Classes/**/*"
+}
